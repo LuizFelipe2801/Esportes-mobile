@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Esportes Olímpicos",
+    "slug": "esportes-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#050a14",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.puc.esportes"
+    },
+    "android": {
+      "package": "com.puc.esportes",
+      "adaptiveIcon": {
+        "backgroundColor": "#050a14"
+      }
+    }
+  }
+}
